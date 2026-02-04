@@ -45,8 +45,8 @@ export const CardProjetos = ({image, title, text, link, tecnologias, transition}
     return (
         <>
             <motion.div 
-                initial={{ opacity: 0, y: 5,}} 
-                whileInView={{ opacity: 1, y: 0 }} 
+                initial={{ opacity: 0, x: -15,}} 
+                whileInView={{ opacity: 1, x: 0 }} 
                 transition={{ duration: transition/5 }} 
                 viewport={{ once: false, amount: 0.3 }} 
                 className="flex flex-col relative rounded-[20px] border h-[350px] w-[430px] hover:-translate-y-1 transition-all max-lg:w-full" 
