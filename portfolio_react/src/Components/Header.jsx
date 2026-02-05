@@ -91,10 +91,11 @@ const Header = () => {
                                 <Link to="Projetos" smooth={true} className="text-w1 hover:text-b5 duration-700 cursor-pointer">Projetos</Link>
                             </li>
                         </ul>
+                        {/* links mobiles */}
                         <div className="text-center">
                             <div className="flex">
                                 {arrayCards.map(item => (
-                                    <a href="">
+                                    <a href={item.link} target="blank">
                                         <div className={`${item.icon} text-b5 px-3 text-2xl`}></div>
                                     </a>
                                 ))}
