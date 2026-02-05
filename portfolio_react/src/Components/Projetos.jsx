@@ -18,7 +18,7 @@ const Projetos = () => {
             title:"check_list",
             text: "check_list com timer e organição de tempo.",
             tecnologias: ["Html", "Css", "JavaScript"],
-            link: "https://lenizio27.github.io/projetos/check_list/index.html"
+            link: "https://lenizio27.github.io/check_list"
         },
         {
             image: Vazio,

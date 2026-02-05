@@ -122,8 +122,8 @@ const Header = () => {
                         onClick={() => setMenuOpen(!menuOpen)}
                         >
                             <i 
-                                className={menuOpen ? "pi pi-bars" : "pi pi-times"
-                            }>
+                                className={` transition-all ${menuOpen ? "pi pi-bars" : "pi pi-times"}`}
+                            >
                             </i>
                         </button>
                     </div>
