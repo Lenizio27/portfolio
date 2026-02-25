@@ -5,16 +5,22 @@ Este projeto foi desenvolvido com criatividade, dedicação e atenção aos deta
 Espero que este espaço possa servir de inspiração e, caso tenha interesse, será um prazer conversarmos sobre possíveis colaborações ou trabalharmos juntos em novos desafios.
 
 Portfólio pessoal de Lenizio Nascimento
-👉Acesse **[aqui](https://portfolio-lenizionascimento.vercel.app/)**
 
-## Tecnologias
 
-- HTML5
-- CSS3
-- REACT
-- TAILWINDCSS
-- JAVASCRIP
+## 🚀 Funcionalidades
+- **Dinâmica:** Designer responsivo e amigavel.
+- **Design Responsivo:** Interface adaptável para dispositivos móveis e desktop.
+- **UX Otimizada:** transição e gerenciamento de estado eficiente com React Hooks.
+
+## 🛠️ Tecnologias Utilizadas
+- **React.js**: Biblioteca principal para construção da interface.
+- **Tailwind CSS**: Framework utilitário para estilização rápida e moderna.
+- **Lucide React / PrimeIcons**: Conjunto de ícones para melhor auxílio visual.
+- **Vite**: Ferramenta de build para um desenvolvimento ágil.
+- **JavaScript**: Linguagem de programação utilizada no projeto
 
 ## Autor
 
 **Lenízio Nascimento**
+## 📦 Veja o Projeto
+👉Acesse **[aqui](https://portfolio-lenizionascimento.vercel.app/)**![Visualização do Projeto](./assets/image.png)
